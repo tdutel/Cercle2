@@ -13,6 +13,8 @@ Push_swap | So_long | Pipex
 ## Introduction <a name="introduction"></a>
 
 Cercle2 contain 3 projects : Push_swap, so_long and Pipex. All these projects are individual.
+- So_long was a choice project with FDF and Fractol.
+- Pipex was a choice project with Minitalk.
 
 ## Push_swap <a name="pushswap"></a>
 
@@ -45,14 +47,13 @@ cd so_long
 make
 ./so_long maps/big.ber (or another map)
 ```
-> ⚠️ So_long was made on Mac, so it doesn't compile on linux (I plan to fix this in the future.) 🚧
-
 ```
 cd pipex
 make
 ./pipex infile "cmd1" "cmd2" outfile
 ```
 
+> ⚠️ So_long and pipex was made on Mac, so it doesn't compile correctly on linux (I plan to fix this in the future.) 🚧
 
 > #### Disclaimer
 > This project is a part of the 42-Cursus curriculum and is intended for educational purposes. If you are a current student of 42, we strongly advise you not to copy this project or submit it as your own work, as it goes against the school's academic integrity policy.
