@@ -43,8 +43,10 @@ make
 ```
 cd so_long
 make
-./so_long maps/
+./so_long maps/big.ber (or another map)
 ```
+> ⚠️ So_long was made on Mac, so it doesn't compile on linux (I plan to fix this in the future.) 🚧
+
 ```
 cd pipex
 ```
