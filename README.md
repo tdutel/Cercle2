@@ -16,7 +16,7 @@ Cercle2 contain 3 projects : Push_swap, so_long and Pipex. All these projects ar
 
 ## Push_swap <a name="pushswap"></a>
 
-This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, we have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. View [Push_swap subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
+This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, we have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. View [Push_swap subject](https://github.com/tdutel/Cercle2/blob/main/push_swap/en.subject.pdf)
 
 ## So_long <a name="solong"></a>
 
