@@ -20,7 +20,7 @@ This project involves sorting data on a stack, with a limited set of instruction
 
 ## So_long <a name="solong"></a>
 
-May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [So_long subject](https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
+May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [So_long subject](https://github.com/tdutel/Cercle2/blob/main/so_long/en.subject.pdf)
 
 ## Pipex <a name="pipex"></a>
 
