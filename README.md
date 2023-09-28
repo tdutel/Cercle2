@@ -33,6 +33,17 @@ This project aims to deepen our understanding of the two concepts: Redirections 
 ```
 git clone https://github.com/tdutel/Cercle2.git
 ```
+then according to subject :
+
+```
+cd push_swap
+```
+```
+cd so_long
+```
+```
+cd pipex
+```
 Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle2). There's really no point in copying this repo. It's more about showing how it works than using it directly.
 
 > #### Disclaimer
