@@ -6,7 +6,7 @@
 #    By: tdutel <tdutel@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/01/23 14:41:47 by tdutel            #+#    #+#              #
-#    Updated: 2023/01/28 13:46:36 by tdutel           ###   ########.fr        #
+#    Updated: 2023/09/28 13:44:51 by tdutel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -98,10 +98,12 @@ ${DIR_OBJS}		:
 # ---- Usual Rules ---- #
 
 clean			:
+					make -C libft clean
 					${RM} ${OBJS}
 
 fclean			:	clean
 					${RM} ${NAME}
+					make -C libft fclean
 
 re				:	fclean all
 
