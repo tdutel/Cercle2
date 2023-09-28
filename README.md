@@ -28,12 +28,12 @@ This project aims to deepen our understanding of the two concepts: Redirections 
 
 ## Usage <a name="usage"></a>
 
-1. Copy link : https://github.com/tdutel/Cercle1.git
+1. Copy link : https://github.com/tdutel/Cercle2.git
 2. tap in terminal :
 ```
-git clone https://github.com/tdutel/Cercle1.git
+git clone https://github.com/tdutel/Cercle2.git
 ```
-Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle0). There's really no point in copying this repo. It's more about showing how it works than using it directly.
+Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle2). There's really no point in copying this repo. It's more about showing how it works than using it directly.
 
 > #### Disclaimer
 > This project is a part of the 42-Cursus curriculum and is intended for educational purposes. If you are a current student of 42, we strongly advise you not to copy this project or submit it as your own work, as it goes against the school's academic integrity policy.
