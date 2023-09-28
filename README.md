@@ -24,7 +24,7 @@ May it be a file, stdin, or even later a network connection, we will always need
 
 ## Pipex <a name="pipex"></a>
 
-This project aims to deepen our understanding of the two concepts: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus. View [Pipex subject](https://github.com/tdutel/Cercle1/blob/main/Born2beRoot/en.subject.pdf)
+This project aims to deepen our understanding of the two concepts: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus. View [Pipex subject](https://github.com/tdutel/Cercle2/blob/main/pipex/en.subject.pdf)
 
 ## Usage <a name="usage"></a>
 
