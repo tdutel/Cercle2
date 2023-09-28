@@ -2,7 +2,7 @@
 # Cercle2
 Push_swap | So_long | Pipex
 
-## Sommaire
+## Summary
 
 - [Introduction](#introduction)
 - [Push_swap](#pushswap)
@@ -49,8 +49,10 @@ make
 
 ```
 cd pipex
+make
+./pipex infile "cmd1" "cmd2" outfile
 ```
-Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle2). There's really no point in copying this repo. It's more about showing how it works than using it directly.
+
 
 > #### Disclaimer
 > This project is a part of the 42-Cursus curriculum and is intended for educational purposes. If you are a current student of 42, we strongly advise you not to copy this project or submit it as your own work, as it goes against the school's academic integrity policy.
