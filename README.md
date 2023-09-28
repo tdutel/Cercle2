@@ -12,19 +12,19 @@ Push_swap | So_long | Pipex
 
 ## Introduction <a name="introduction"></a>
 
-Cercle1 contain 3 projects : ft_printf, get_next_line and Born2beRoot. Both of this project is individual.
+Cercle2 contain 3 projects : Push_swap, so_long and Pipex. All these projects are individual.
 
 ## Push_swap <a name="pushswap"></a>
 
-This project is pretty straightforward, we have to recode printf. we will learn what is and how to implement variadic functions. We will reuse this function in our future projects. View [ft_printf subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
+This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, we have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. View [Push_swap subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
 
 ## So_long <a name="solong"></a>
 
-May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [get_next_line subject](https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
+May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [So_long subject](https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
 
 ## Pipex <a name="pipex"></a>
 
-Born2beRoot cannot be shown in this repo because it's a virutal machine project. You can also view [Born2beRoot subject](https://github.com/tdutel/Cercle1/blob/main/Born2beRoot/en.subject.pdf)
+This project aims to deepen our understanding of the two concepts: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus. View [Pipex subject](https://github.com/tdutel/Cercle1/blob/main/Born2beRoot/en.subject.pdf)
 
 ## Usage <a name="usage"></a>
 
