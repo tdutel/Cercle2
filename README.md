@@ -37,9 +37,13 @@ then according to subject :
 
 ```
 cd push_swap
+make
+./push_swap nb1 nb2 nb3 nb4 nb5 ...
 ```
 ```
 cd so_long
+make
+./so_long maps/
 ```
 ```
 cd pipex
